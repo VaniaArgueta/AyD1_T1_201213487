@@ -20,3 +20,6 @@ manera rápida lo solicitado y al finalizar cierre el flujo nuevamente. (tomar e
 nuevo número de versión).
 
 Se debe adjuntar flujo visual proporcionado por gitkraken al finalizar
+
+
+![Screenshot_20230219_111552](https://user-images.githubusercontent.com/25561134/220016907-ea1620bf-b52f-4666-bbcd-5cd9da2c2051.png)
