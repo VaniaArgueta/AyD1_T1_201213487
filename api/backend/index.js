@@ -16,7 +16,7 @@ app.post('/calcular201213487',function(req,res){
 
     res.json(
         {
-            "suma": num1+num2
+            "producto": num1*num2
         }
     );
 });
@@ -28,7 +28,6 @@ app.get('/info', (req, res) => {
         }
     );
 });
-
 
 app.listen(4000);
 console.log("Server running on port 4000");
