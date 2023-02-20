@@ -21,6 +21,14 @@ app.post('/calcular201213487',function(req,res){
     );
 });
 
+app.get('/info', (req, res) => {    
+    res.json(
+        {
+            "carnet": "201213487"
+        }
+    );
+});
+
 
 app.listen(4000);
 console.log("Server running on port 4000");
